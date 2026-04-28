@@ -23,6 +23,15 @@ header{
     font-size: larger;
 }
 
+h1{
+  font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-size: 5rem;
+  font-style: normal;
+}
+
+
+
 a{
     text-decoration: none;
     color: white;
